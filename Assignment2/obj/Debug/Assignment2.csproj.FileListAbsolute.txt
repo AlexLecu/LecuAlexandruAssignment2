@@ -1,0 +1,13 @@
+F:\PS\Assignment2\Assignment2\bin\Debug\Assignment2.exe.config
+F:\PS\Assignment2\Assignment2\bin\Debug\Assignment2.exe
+F:\PS\Assignment2\Assignment2\bin\Debug\Assignment2.pdb
+F:\PS\Assignment2\Assignment2\obj\Debug\Assignment2.csprojResolveAssemblyReference.cache
+F:\PS\Assignment2\Assignment2\obj\Debug\Assignment2.Properties.Resources.resources
+F:\PS\Assignment2\Assignment2\obj\Debug\Assignment2.csproj.GenerateResource.Cache
+F:\PS\Assignment2\Assignment2\obj\Debug\Assignment2.exe
+F:\PS\Assignment2\Assignment2\obj\Debug\Assignment2.pdb
+F:\PS\Assignment2\Assignment2\bin\Debug\MySql.Data.dll
+F:\PS\Assignment2\Assignment2\bin\Debug\MySql.Data.xml
+F:\PS\Assignment2\Assignment2\obj\Debug\Assignment2.Views.RegularUserView.resources
+F:\PS\Assignment2\Assignment2\obj\Debug\Assignment2.Views.RegularUserControl.resources
+F:\PS\Assignment2\Assignment2\obj\Debug\Assignment2.Views.AdminControl.resources
